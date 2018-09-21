@@ -9,6 +9,6 @@ Example of how to generate the [Barnsley fern](https://en.wikipedia.org/wiki/Bar
 Usage
 =====
 
-```php
+```bash
 $ php main.php
 ```
