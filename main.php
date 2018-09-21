@@ -43,6 +43,6 @@ for($i = 0; $i < 100000; $i++) {
 	$y = ($c[2] * $x + $c[3] * $y) + $c[5];
 }
 
-imagepng($im, 'output.png', NoCompression);
+imagepng($im, 'barnsley-fern.png', NoCompression);
 imagedestroy($im);
 
